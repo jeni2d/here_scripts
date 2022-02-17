@@ -8,7 +8,7 @@ api_url = "https://route.api.here.com/routing/7.2/calculateroute.json"
 params = {
 	'mode': 'fastest;car;traffic:disabled',
 	'app_id': '', #get app_id and app_code on https://developer.here.com/
-    'app_code': '',
+        'app_code': '',
 	'departure': 'now',
 	'routeattributes': ['sm', 'sh'],
 	'linkattributes': ['sh', 'le'],
