@@ -1,3 +1,6 @@
+# this script can extract geometry and save it as KML file from the route built on https://refclient.ext.here.com/
+# the only input is copied api call
+
 import requests
 import re
 import simplekml
