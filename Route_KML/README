@@ -1,0 +1,2 @@
+With this script, you can export a route from https://refclient.ext.here.com/ to KML file.
+You have to build the interested route and then paste api call as an input to the script
