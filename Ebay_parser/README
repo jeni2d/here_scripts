@@ -1,0 +1,1 @@
+This script parses Ebay site, get all the categories then all the products then get all existing reviews from each product and export them to json file
