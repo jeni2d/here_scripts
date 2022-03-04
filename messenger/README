@@ -1,4 +1,4 @@
-This is a basic simple messenger that supports only sending and receiving messages.
+This is a basic simple messenger without registration (only by entering a name) that supports only sending and receiving messages.
 First, you need to execute server.py and then messenger.py to chat.
 To change the server host firstly change it in server.py (row 83 )and then in messenger.py (row 46, 62).
 Not deployed. Use this site for deployment https://doc.qt.io/qtforpython/deployment.html
