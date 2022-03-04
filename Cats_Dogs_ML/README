@@ -1,0 +1,7 @@
+With this model, you can identify whether a cat or a dog is present in the image.
+result will be a float number from 0 to 1
+from 0 to apprx. 0.3 - a cat is on the image
+from 0.7 to 1 - a dog is on the image
+from 0.3 to 0.7 - neither a cat nor a dog
+I can't upload the model here because it's more 24mb, so here is the link to the model itself
+https://drive.google.com/file/d/1VKWoVlA-UgdqZIJwkIDJOHxz-tD9ZnQ9/view?usp=sharing
